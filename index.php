@@ -13,3 +13,5 @@ ini_set('error_reporting', E_ALL);
 define("DNS_DIR", dirname(__FILE__));
 require_once("lib/system/DNS.class.php");
 new DNS();
+
+#test
